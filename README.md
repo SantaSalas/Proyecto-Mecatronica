@@ -22,6 +22,8 @@
 11. 1 Piso 1 CAD
 12. 1 Piso 2 CAD
 13. Cables macho-macho
+14. Pegamento líquido UHU
+15. Carcasa Bienvenidos al Himalaya (edición limitada)
 
 ## Diagrama de conexiones electrónicas.
 ![WhatsApp Image 2025-12-02 at 16 59 52](https://github.com/user-attachments/assets/37b3ee7a-3e9f-4a20-8bac-20bc4c646f30)
