@@ -16,14 +16,33 @@
 5. 1 Motor driver L298N
 6. 1 Arduino
 7. 12 Pernos M3
-8. 4 Escuadras rectangulares
-9. 1 Techo CAD
-10. 2 Paredes CAD
-11. 1 Piso 1 CAD
-12. 1 Piso 2 CAD
-13. Cables macho-macho
-14. Pegamento líquido UHU
-15. Carcasa Bienvenidos al Himalaya (edición limitada)
-
+8. 12 Tuercas M3
+9. 4 Escuadras rectangulares
+10. 1 Techo CAD
+11. 2 Paredes CAD
+12. 1 Piso 1 CAD
+13. 1 Piso 2 CAD
+14. 1 Base CAD
+15. 18 Cables macho-macho
+16. Pegamento líquido UHU
+17. Carcasa Bienvenidos al Himalaya (edición limitada)
+18. 1 Switch encendido/apagado
+19. 1 Portapilas
+20. Cinta doble faz
+21. Cinta masking tape
 ## Diagrama de conexiones electrónicas.
 ![WhatsApp Image 2025-12-02 at 16 59 52](https://github.com/user-attachments/assets/37b3ee7a-3e9f-4a20-8bac-20bc4c646f30)
+
+## Manual de armado 
+1. Armado Chasis: Una vez impresas todas paredes y ruedas de pvc en impresora 3d, se pegan con pegamento UHU las 4 paredes exteriores. Luego pegar escuadras metálicas cercanas a las esquinas.
+*Procurar la correcta orientación de las paredes al momento de pegarlas.
+2. Instalación componentes piso 0: En las paredes laterales instalar ambos motores DC con pernos y tuercas M3 en los agujeros existentes. Luego con pegamento UHU, pegar las ruedas a los ejes de los motores, una rueda en cada motor.
+3. Armado Piso 1: Instalar Motor driver L298N y Arduino con pernos y tuercas M3 en los agujeros existentes. Pegar Portapilas en la parte inferior del piso afirmado con cinta doble faz y cinta masking tape, se instala cercano al borde delante y procurando que esté centrado. Luego instalar pilas y pegar al portapilas el switch de encendido/apagado.
+4. Armado Piso 2: Instalar MPU6050 con pernos y tuercas M3 en los agujeros existentes.
+5. Cableado: Ya instalados los componentes, seguir el diagrama de conexiones para realizar las conexiones eléctricas, utilizando los cables macho-macho.
+6. Montaje: Los pisos se instalan sobre los descansos de las paredes y reforzando con pegamento UHU. Finalmente colocar la carcasa, preocurando que ningún cable que apretado entre la carcasa y la estructura.
+
+## Puesta en marcha
+1. Al sistema previamente se subió un código Arduino listo para utilizar el Robot Balancín.
+2. Levantar el robot y en la vista inferior encender el switch y colocar el motor en una superficie lisa y plana.
+3. En caso de falla levantar el robot por la carcasa y apagar el switch, no agarrarlo desde las ruedas.
