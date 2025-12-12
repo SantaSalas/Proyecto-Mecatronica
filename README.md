@@ -31,7 +31,8 @@
 20. Cinta doble faz
 21. Cinta masking tape
 ## Diagrama de conexiones electrónicas.
-![WhatsApp Image 2025-12-02 at 16 59 52](https://github.com/user-attachments/assets/37b3ee7a-3e9f-4a20-8bac-20bc4c646f30)
+![IMG-20251212-WA0009](https://github.com/user-attachments/assets/1b5d5747-dd12-43e8-814d-fc43f8eac64c)
+
 
 ## Manual de armado 
 1. Armado Chasis: Una vez impresas todas paredes y ruedas de PLA en impresora 3d, se pegan con pegamento UHU las 4 paredes exteriores. Luego pegar escuadras metálicas cercanas a las esquinas.
