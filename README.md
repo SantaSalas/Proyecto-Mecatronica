@@ -15,12 +15,13 @@
 4. 1 MPU6050
 5. 1 Motor driver L298N
 6. 1 Arduino
-7. Pernos M3
-8. Techo CAD
-9. Paredes CAD
-10. Piso 1 CAD
-11. Piso 2 CAD
-12. Cables macho-macho
+7. 12 Pernos M3
+8. 4 Escuadras rectangulares
+9. 1 Techo CAD
+10. 2 Paredes CAD
+11. 1 Piso 1 CAD
+12. 1 Piso 2 CAD
+13. Cables macho-macho
 
 ## Diagrama de conexiones electrónicas.
 ![WhatsApp Image 2025-12-02 at 16 59 52](https://github.com/user-attachments/assets/37b3ee7a-3e9f-4a20-8bac-20bc4c646f30)
