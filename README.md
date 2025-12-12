@@ -11,10 +11,10 @@
 ## Lista de materiales 
 1. 2 Motor DC
 2. 2 Ruedas
-3. 2 Baterias 12V
+3. 3 Baterias 4V
 4. 1 MPU6050
 5. 1 Motor driver L298N
-6. 1 Arduino
+6. 1 Placa Arduino Uno
 7. 12 Pernos M3
 8. 12 Tuercas M3
 9. 4 Escuadras rectangulares
