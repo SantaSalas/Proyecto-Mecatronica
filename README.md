@@ -37,7 +37,7 @@
 1. Armado Chasis: Una vez impresas todas paredes y ruedas de pvc en impresora 3d, se pegan con pegamento UHU las 4 paredes exteriores. Luego pegar escuadras metálicas cercanas a las esquinas.
 *Procurar la correcta orientación de las paredes al momento de pegarlas.
 2. Instalación motores: En las paredes laterales instalar ambos motores DC con pernos y tuercas M3 en los agujeros existentes. Luego con pegamento UHU, pegar las ruedas a los ejes de los motores, una rueda en cada motor.
-3. Armado Piso 1: Instalar Motor driver L298N y Arduino con pernos y tuercas M3 en los agujeros existentes. Pegar Portapilas en la parte inferior del piso afirmado con cinta doble faz y cinta masking tape, se instala cercano al borde delantero y procurando que esté centrado. Luego instalar pilas y pegar al portapilas el switch de encendido/apagado.
+3. Armado Piso 1: Instalar Motor driver L298N y Arduino con pernos y tuercas M3 en los agujeros existentes. Pegar Portapilas en la parte inferior del piso afirmado con cinta doble faz y cinta masking tape, se instala cercano al borde delantero y procurando que esté centrado. Luego instalar pilas y pegar al portapilas el switch de encendido/apagado con cinta doble faz.
 4. Armado Piso 2: Instalar MPU6050 con pernos y tuercas M3 en los agujeros existentes.
 5. Cableado: Ya instalados los componentes, seguir el diagrama de conexiones para realizar las conexiones eléctricas, utilizando los cables macho-macho.
 6. Montaje: Los pisos se instalan sobre los descansos de las paredes y reforzando con pegamento UHU. Finalmente colocar la carcasa, preocurando que ningún cable que apretado entre la carcasa y la estructura.
