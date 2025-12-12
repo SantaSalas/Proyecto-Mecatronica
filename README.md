@@ -34,7 +34,7 @@
 ![WhatsApp Image 2025-12-02 at 16 59 52](https://github.com/user-attachments/assets/37b3ee7a-3e9f-4a20-8bac-20bc4c646f30)
 
 ## Manual de armado 
-1. Armado Chasis: Una vez impresas todas paredes y ruedas de pvc en impresora 3d, se pegan con pegamento UHU las 4 paredes exteriores. Luego pegar escuadras metálicas cercanas a las esquinas.
+1. Armado Chasis: Una vez impresas todas paredes y ruedas de PLA en impresora 3d, se pegan con pegamento UHU las 4 paredes exteriores. Luego pegar escuadras metálicas cercanas a las esquinas.
 *Procurar la correcta orientación de las paredes al momento de pegarlas.
 2. Instalación motores: En las paredes laterales instalar ambos motores DC con pernos y tuercas M3 en los agujeros existentes. Luego con pegamento UHU, pegar las ruedas a los ejes de los motores, una rueda en cada motor.
 3. Armado Piso 1: Instalar Motor driver L298N y Arduino con pernos y tuercas M3 en los agujeros existentes. Pegar Portapilas en la parte inferior del piso afirmado con cinta doble faz y cinta masking tape, se instala cercano al borde delantero y procurando que esté centrado. Luego instalar pilas y pegar al portapilas el switch de encendido/apagado con cinta doble faz.
@@ -43,6 +43,8 @@
 6. Montaje: Los pisos se instalan sobre los descansos de las paredes y reforzando con pegamento UHU. Finalmente colocar la carcasa, preocurando que ningún cable que apretado entre la carcasa y la estructura.
 
 ## Puesta en marcha
-1. Al sistema previamente se subió un código Arduino listo para utilizar el Robot Balancín.
-2. Levantar el robot y en la vista inferior encender el switch y colocar el motor en una superficie lisa y plana.
-3. En caso de falla levantar el robot por la carcasa y apagar el switch, no agarrarlo desde las ruedas.
+1. Subir el código Arduino listo para utilizar el Robot Balancín.
+2. Levantar el robot y colocar únicamente la base del robot en una superficie lisa y plana (puede ser una caja).
+3. Encender el robot y esperar 3 segundos a que termine el proceso de calibración.
+4. Dejar el robot libre sobre una superficie plana para que comience a balancearse.
+5. En caso de falla levantar el robot por la carcasa y apagar el switch, no agarrarlo desde las ruedas.
